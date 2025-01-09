@@ -10,7 +10,7 @@ data = {
     'Bedrooms': [2, 3, 2, 3, 4],
     'Price (in $1000s)': [150, 200, 180, 220, 250]
 }
-
+         
 df = pd.DataFrame(data)
 
 # Features and target
