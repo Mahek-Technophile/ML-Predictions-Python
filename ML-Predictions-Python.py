@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error
 # Sample dataset
-data = {
+data = {  
     'Size (sq ft)': [750, 800, 850, 900, 950],
     'Bedrooms': [2, 3, 2, 3, 4],
     'Price (in $1000s)': [150, 200, 180, 220, 250]
