@@ -39,3 +39,4 @@ joblib.dump(model, 'house_price_model.pkl')
 # Load model
 loaded_model = joblib.load('house_price_model.pkl')
 
+                
